@@ -1,6 +1,5 @@
 # Android device tree for samsung SM-M526B (m52xq)
 
-Device TWRP tree for Samsung Galaxy M52 5G
 ===============================================
 
 ## Device specifications
