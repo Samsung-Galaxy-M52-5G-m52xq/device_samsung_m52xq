@@ -15,3 +15,4 @@ Shipped Android version | Android 11, OneUI 3.1
 Battery  | Li-ion 4860mAh, non-removable
 Display  | Super AMOLED, 120Hz, 800 nits, 6.7 inch, 1080 x 2400 pixels, 20:9 ratio
 
+![samsung-galaxy-m32-5g-](https://user-images.githubusercontent.com/96943033/176248913-edbee298-fc91-4405-bd98-cd72034fa535.jpg)
